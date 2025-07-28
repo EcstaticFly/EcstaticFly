@@ -152,7 +152,7 @@
 </table>
 
 ### 🎯 Language Distribution
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=12&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 
 ### 📊 Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EcstaticFly&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
