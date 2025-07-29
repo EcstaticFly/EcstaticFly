@@ -171,16 +171,6 @@
 
 ---
 
-## 👨‍💻 Console.log(Thoughts);
-
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <div align="center">
   
 ### ⭐ Show some love by starring repositories if you find them interesting!
