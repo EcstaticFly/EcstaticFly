@@ -162,7 +162,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -171,7 +171,7 @@
 
 </div>
 
----
+--- -->
 
 <div align="center">
   
