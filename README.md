@@ -84,8 +84,10 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -97,6 +99,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎨 Design & Creative
@@ -153,8 +156,8 @@
 </tr>
 </table>
 
-### 🎯 Language Distribution
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+<!-- ### 🎯 Language Distribution
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/> -->
 
 ### 📊 Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EcstaticFly&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
@@ -162,7 +165,7 @@
 </div>
 
 ---
-<!-- 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -171,7 +174,7 @@
 
 </div>
 
---- -->
+---
 
 <div align="center">
   
