@@ -37,7 +37,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logoColor=white)](https://portfolio-suyashpandey.vercel.app/)
 
 </div>
-
+<!-- 
 ---
 
 ## 🏆 GitHub Achievements
@@ -46,7 +46,7 @@
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EcstaticFly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+</div> -->
 
 ---
 
@@ -54,16 +54,14 @@
 
 <div align="center">
 
-### 📈 Overview Statistics
-
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&line_height=24&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 
-</td>
-<td width="50%">
+</td> -->
+<td width="100%">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=EcstaticFly&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
@@ -71,9 +69,7 @@
 </tr>
 </table>
 
-### 🎯 Language Distribution
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+<!-- <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcstaticFly&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>  -->
 
 </div>
 
