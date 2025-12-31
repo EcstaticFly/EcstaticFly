@@ -18,7 +18,7 @@
 
 <div align="left">
   
-🔭 **Currently cooking up:** An AI-powered DAST (Dynamic Application Security Testing) platform <br/>
+🔭 **Currently cooking up:** Some new additions to personal projects  
 🤝 **Down to build:** Cool full-stack stuff, real-time chaos (the fun kind), or anything with slick UI and solid APIs  
 🌱 **Leveling up in:** NestJS, GraphQL, and the fine art of backend wizardry  
 💬 **Hit me up for:** Web dev banter, scaling rants, or dev memes that hit too close to home  
