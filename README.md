@@ -34,6 +34,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash607) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyashpandey607@gmail.com) 
+[![Codolio](https://img.shields.io/badge/Codolio-FF9913?style=for-the-badge&logoColor=white)](https://codolio.com/profile/suyash607) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logoColor=white)](https://portfolio-suyashpandey.vercel.app/)
 
 </div>
